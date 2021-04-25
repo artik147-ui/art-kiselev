@@ -1,13 +1,23 @@
+@font-face {
+  font-weight: normal;
+  font-family: 'Comfortaa';
+  src: url(/Comfortaa-Regular.ttf);
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Comfortaa';
+  src: url(/Comfortaa-Bold.ttf);
+	
 body {
-	font-family: sans-serif;
-	line-height: 1.5;
-		
-	background-color: #f9f9f9;
-	color: #333333;
-		
-	width: 980px;
-	margin: 0 auto;
-} 
+  margin: 0;
+  padding: 0;
+
+  color: #eee;
+  font: 18px/1.5 'Comfortaa', sans-serif;
+
+  background: #222831;
+}
 
 h1 {
     text-align: center;
