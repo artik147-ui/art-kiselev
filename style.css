@@ -11,14 +11,13 @@
 	
 body {
   margin: 0;
-  padding: 0;
 
-  color: #eee;
-  font: 18px/1.5 'Comfortaa', sans-serif;
+  color: #333;
+  font-size: 18px;
+  font-family: sans-serif;
+  line-height: 1.5;
 
-  background: #222831;
 }
-
 h1 {
     text-align: center;
     font-size: 36px;
